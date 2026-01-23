@@ -37,6 +37,10 @@ This repository is created to **systematically learn Python, Data Structures, an
 
 ---
 
+**GITHUB LINK:**  
+🔗 https://github.com/codeanddebugedu/a3-batch-python-dsa
+🔗 https://github.com/codeanddebugedu/leetcode-solutions
+
 ## 📊 Progress Tracking
 
 An **Excel file** is used to track progress throughout the DSA journey.
